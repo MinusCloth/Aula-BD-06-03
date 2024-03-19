@@ -160,4 +160,6 @@ Exercicio de DB
   
 - DELETE FROM contatos WHERE email='rita.oliveira@email.com';
   
+- ALTER TABLE contatos ADD favorito varchar(14);
+  
 - SET SQL_SAFE_UPDATES = 0; 
